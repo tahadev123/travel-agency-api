@@ -1,0 +1,60 @@
+[
+  {
+    "id": "bf4a604d-1772-46d4-98ab-1f48c34fbc86",
+    "mobile": "09127154920",
+    "otpExpires": 1735149641165,
+    "otpCode": "227483",
+    "email": "example@gmail.com",
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "male",
+    "birthDate": "2022-10-02",
+    "nationalCode": 3730798568,
+    "payment": {
+      "shaba_code": "123",
+      "debitCard_code": "12",
+      "accountIdentifier": "string"
+    }
+  },
+  {
+    "id": "b6157688-a775-4282-ae0f-98e74228523f",
+    "mobile": "09029622511",
+    "otpExpires": 1735157203102,
+    "otpCode": "257624",
+    "email": "example@gmail.com",
+    "firstName": "John",
+    "lastName": "Doe",
+    "gender": "male",
+    "birthDate": "2022-10-02",
+    "nationalCode": 3730798568,
+    "payment": {
+      "shaba_code": "string",
+      "debitCard_code": "string",
+      "accountIdentifier": "string"
+    }
+  },
+  {
+    "id": "41ac4ec4-3190-4873-b656-d5bc0d897a15",
+    "mobile": "09129658695",
+    "otpExpires": 1734973850182,
+    "otpCode": "689247"
+  },
+  {
+    "id": "4d931b06-f930-4706-9a0f-00721fb9b29b",
+    "mobile": "09059864587",
+    "otpExpires": 1735043863263,
+    "otpCode": "669341"
+  },
+  {
+    "id": "277a78ec-621d-409d-b21b-935f08a41bee",
+    "mobile": "09658754698",
+    "otpExpires": 1735044814583,
+    "otpCode": "935609"
+  },
+  {
+    "id": "dd728492-56d3-4d8b-95fe-da597801dfd8",
+    "mobile": "09857889456",
+    "otpExpires": 1735045755155,
+    "otpCode": "666794"
+  }
+]
